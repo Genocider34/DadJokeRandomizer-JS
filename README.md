@@ -1,4 +1,5 @@
 API : https://icanhazdadjoke.com
 
 <h1>OUTPUT</h1>
-![image](https://github.com/Genocider34/DadJokeRandomizer-JS/assets/155958123/8d446924-d05b-42a8-a07c-93f5a6d874f1)
+![image](https://github.com/Genocider34/DadJokeRandomizer-JS/assets/155958123/e6427bde-79d3-4ac3-b630-d37dc358537b)
+
